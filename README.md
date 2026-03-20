@@ -1,0 +1,2 @@
+# demo-two
+example of gs repo starting on remote side with new branch name
